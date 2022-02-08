@@ -50,16 +50,7 @@ namespace LineComparison
             Console.ReadLine();
 
         }
-        public void function_check()
-        {
-            bool equal_result = Length_XY.Equals(Length_SR);
-
-            if (equal_result == false)
-                Console.WriteLine(" Length of XY and Length of SR are NOT Equal");
-            else
-                Console.WriteLine("Length of XY and Length of SR are Equal");
-            Console.ReadKey();
-        }
+        
 
         public void Comparelines()
         {
