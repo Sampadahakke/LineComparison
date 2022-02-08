@@ -15,6 +15,8 @@ namespace LineComparison
 
             LineComparison line = new LineComparison();
             line.length_line();
+            line.function_check();
+
         }
     }
 }
