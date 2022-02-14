@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LineComparison
 { 
-    //Using Java object oriented programming concepts
+    //Using Java object oriented programming concepts-
     internal class LineComparison
     {
 
