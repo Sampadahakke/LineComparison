@@ -5,9 +5,11 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace LineComparison
-{
+{ 
+    //Using Java object oriented programming concepts
     internal class LineComparison
     {
+
         public int X_One;
         public int X_Two;
         public int Y_One;
